@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="52.371193">
+<testcase classname="Testing Multi-Datas" name="Google Searches" time="11.298968">
+<system-out><![CDATA[Given Environment is ready..................................................passed
+When got to the Website "https://www.google.com"............................passed
+And search "Lap-top" keyward................................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Multi-Datas" name="Google Searches 2" time="10.668905">
+<system-out><![CDATA[Given Environment is ready..................................................passed
+When got to the Website "https://www.google.com"............................passed
+And search "Potato" keyward.................................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Multi-Datas" name="Google Searches 3" time="10.216454">
+<system-out><![CDATA[Given Environment is ready..................................................passed
+When got to the Website "https://www.google.com"............................passed
+And search "Computer" keyward...............................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Multi-Datas" name="Google Searches 4" time="10.211186">
+<system-out><![CDATA[Given Environment is ready..................................................passed
+When got to the Website "https://www.google.com"............................passed
+And search "Ipad" keyward...................................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Multi-Datas" name="Google Searches 5" time="9.97568">
+<system-out><![CDATA[Given Environment is ready..................................................passed
+When got to the Website "https://www.google.com"............................passed
+And search "Iphone" keyward.................................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

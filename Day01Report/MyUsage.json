@@ -1,0 +1,174 @@
+[
+  {
+    "source": "search {string} keyward",
+    "steps": [
+      {
+        "name": "search \"Lap-top\" keyward",
+        "aggregatedDurations": {
+          "average": 2.416242741,
+          "median": 2.416242741
+        },
+        "durations": [
+          {
+            "duration": 2.416242741,
+            "location": "Features/DDT.feature:9"
+          }
+        ]
+      },
+      {
+        "name": "search \"Potato\" keyward",
+        "aggregatedDurations": {
+          "average": 3.309521557,
+          "median": 3.309521557
+        },
+        "durations": [
+          {
+            "duration": 3.309521557,
+            "location": "Features/DDT.feature:9"
+          }
+        ]
+      },
+      {
+        "name": "search \"Computer\" keyward",
+        "aggregatedDurations": {
+          "average": 2.793326726,
+          "median": 2.793326726
+        },
+        "durations": [
+          {
+            "duration": 2.793326726,
+            "location": "Features/DDT.feature:9"
+          }
+        ]
+      },
+      {
+        "name": "search \"Ipad\" keyward",
+        "aggregatedDurations": {
+          "average": 2.921980639,
+          "median": 2.921980639
+        },
+        "durations": [
+          {
+            "duration": 2.921980639,
+            "location": "Features/DDT.feature:9"
+          }
+        ]
+      },
+      {
+        "name": "search \"Iphone\" keyward",
+        "aggregatedDurations": {
+          "average": 2.579295249,
+          "median": 2.579295249
+        },
+        "durations": [
+          {
+            "duration": 2.579295249,
+            "location": "Features/DDT.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Close the browser",
+    "steps": [
+      {
+        "name": "Close the browser",
+        "aggregatedDurations": {
+          "average": 3.688216183,
+          "median": 3.688991278
+        },
+        "durations": [
+          {
+            "duration": 3.705689884,
+            "location": "Features/DDT.feature:10"
+          },
+          {
+            "duration": 3.676869828,
+            "location": "Features/DDT.feature:10"
+          },
+          {
+            "duration": 3.693182893,
+            "location": "Features/DDT.feature:10"
+          },
+          {
+            "duration": 3.676347034,
+            "location": "Features/DDT.feature:10"
+          },
+          {
+            "duration": 3.688991278,
+            "location": "Features/DDT.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Environment is ready",
+    "steps": [
+      {
+        "name": "Environment is ready",
+        "aggregatedDurations": {
+          "average": 2.566188868,
+          "median": 2.320308516
+        },
+        "durations": [
+          {
+            "duration": 3.61682085,
+            "location": "Features/DDT.feature:7"
+          },
+          {
+            "duration": 2.293994999,
+            "location": "Features/DDT.feature:7"
+          },
+          {
+            "duration": 2.327466751,
+            "location": "Features/DDT.feature:7"
+          },
+          {
+            "duration": 2.272353227,
+            "location": "Features/DDT.feature:7"
+          },
+          {
+            "duration": 2.320308516,
+            "location": "Features/DDT.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "got to the Website {string}",
+    "steps": [
+      {
+        "name": "got to the Website \"https://www.google.com\"",
+        "aggregatedDurations": {
+          "average": 1.410384761,
+          "median": 1.385315055
+        },
+        "durations": [
+          {
+            "duration": 1.546850068,
+            "location": "Features/DDT.feature:8"
+          },
+          {
+            "duration": 1.385315055,
+            "location": "Features/DDT.feature:8"
+          },
+          {
+            "duration": 1.398958111,
+            "location": "Features/DDT.feature:8"
+          },
+          {
+            "duration": 1.336547557,
+            "location": "Features/DDT.feature:8"
+          },
+          {
+            "duration": 1.384253014,
+            "location": "Features/DDT.feature:8"
+          }
+        ]
+      }
+    ]
+  }
+]
